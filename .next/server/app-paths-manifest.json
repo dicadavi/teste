@@ -1,3 +1,4 @@
 {
-  "/Homologacao/page": "app/Homologacao/page.js"
+  "/Homologacao/page": "app/Homologacao/page.js",
+  "/page": "app/page.js"
 }
