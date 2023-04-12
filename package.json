@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "engines": {
-    "node": "18.15.0"
+    "node": "18.13.0"
   },
   "dependencies": {
     "@types/node": "18.15.11",
