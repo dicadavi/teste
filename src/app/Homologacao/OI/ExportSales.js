@@ -27,7 +27,7 @@ let sheet;
 
 
 
-SalesFunction.getOIGVfSales("-",2023,02).then(data => {
+SalesFunction.getOIGVfSales("-",2023,'02').then(data => {
 
   //console.log(data[3].ValidationQuery.match('\{[0-9]*\}')[0].replace('{','').replace('}',''))// Tem que criar um replace para recortar o código 
   //console.log(data)
